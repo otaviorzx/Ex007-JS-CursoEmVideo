@@ -1,0 +1,14 @@
+Você precisa colocar um número entre 1 a 100
+Você vai adicionando esses número, ele vai aparecer na lista, e também vai
+ser salvo na memória do seu computador.
+Ele vai aparecer na lista como:
+"Valor X adicicionado".
+Não pode ser maior que 100 ou menor que um, também não pode repitir um número,
+a caixa também não pode estar vazia.
+Depois de clicar em um botão chamado finalizar, textos irão aparecer, tais como:
+
+"Ao todo, temos X números cadastrados"
+"O maior valor informado foi X"
+"O menor valor informado foi X"
+"Somando todos os valores, temos X"
+"A média dos valores digitados é X"
